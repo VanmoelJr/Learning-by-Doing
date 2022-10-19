@@ -12,6 +12,7 @@
 <tr><td>4.</td><td><a target="_blank" href="https://mega.nz/file/SDICALSJ#3r2oy2AsGXR3P7f8K7xvL2kEVjR6ccze83cAmz9VIBc">The Little Black Book of Computer Viruses</a></td><td>183 Pages</td></tr>
 <tr><td>5.</td><td><a target="_blank" href="https://aka.ms/microservicesebook">NET-Microservices-Architecture-for-Containerized-NET-Applications</a></td><td>- Pages</td></tr>
 <tr><td>6.</td><td><a target="_blank" href="https://mega.nz/file/yGYihB7I#8bmNXXPvSgIotZTsPbGaR-dSj9MfyOoNmm7iZ2me798">Gray Hat Hacking - The Ethical Hacker's Handbook</a></td><td>577 Pages</td></tr>
+<tr><td>7.</td><td><a target="_blank" href="https://mega.nz/file/vGBGTZxT#NdoHXh5mnLFVk6e1_qtXiofBOId35IdhgZw-84f856E">Wireless Network Security</a></td><td>721 Pages</td></tr>
 </table>
 
 ## Cloud Computing Ebooks
